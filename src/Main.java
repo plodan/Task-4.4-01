@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
        int maxNumber = max(250, 80 );
-        System.out.println(Number);
+        System.out.println(max Number);
 
     }
 
